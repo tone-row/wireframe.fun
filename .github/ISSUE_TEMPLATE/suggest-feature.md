@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Suggest Feature
 about: Use this template for tracking new features.
 title: "[FEATURE NAME]"
 labels: enhancement
